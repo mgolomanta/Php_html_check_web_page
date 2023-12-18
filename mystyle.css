@@ -1,0 +1,33 @@
+body{
+    background-color:#f4f4f4;
+    /*height:100vh;*/
+    }
+.fond{
+    width: 210px;
+    height: 210px;      
+} 
+.lead{
+    background-color: #f20683;
+    color: Black;
+}
+.hd{
+    background-color: #0f0568;
+    color: white;
+    height: 100%;
+}
+.copy{
+    color:black;
+}
+
+.login{
+     background-color:#fff;
+}
+.hds{
+    background-color: #f20683;
+    color: white;
+}
+.bts{
+    background-color: #0f0568;
+    color: white;
+
+}
